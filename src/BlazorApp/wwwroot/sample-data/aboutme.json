@@ -1,12 +1,26 @@
 {
-  "description": "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.",
+  "description": "I am an experienced Information Technology leader with a demonstrated history of working in the banking, education and real estate industry. Skilled in Cloud Platforms, Software Development, passionate about cyber security and finance.",
   "skills": [
-    "Web design",
-    "User experience",
-    "Inclusive design",
-    "Focus group testing",
-    "Mobile user interfaces",
-    "Graphic design"
+    "Microsoft Azure",
+    "Amazon Web Services (AWS)",
+    "Google Cloud Platform",
+    "Linux",
+    "Solution Architecture",
+    "SQL",
+    "DevOps",
+    "Databases",
+    "Docker",
+    "Kubernetes",
+    "Powershell",
+    "Cloud Development",
+    "Migration",
+    "Enterprise Architecture",
+    "Cloud Security",
+    "Site Reliability Engineering",
+    "Server Migration",
+    "Microsoft Security",
+    "Virtual Machines",
+    "Microsoft SQL Server"
   ],
-  "detailOrQuote": "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all."
+  "detailOrQuote": "Senior IT Leader ➥ Assessing environments, making recommendations, and implementing enterprise-level IT infrastructure"
 }
